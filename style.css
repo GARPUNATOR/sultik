@@ -1,0 +1,23 @@
+span {
+    font-style: italic;
+}
+
+.boldtext {
+    font-weight: bold;
+}
+
+.cont{
+    display: inline-block;
+    text-align: center;
+    background-color: blue;
+}
+
+p {
+    background-color: aqua;
+    font-size: 24px;
+    font-weight: bolder;
+}
+
+.top{
+    background-color: brown;
+}
